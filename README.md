@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jack!
-- 🌱 I’m currently a master's student at Queen's University at Kingston
+- 🌱 I’m currently a master's student in the Geological Sciences and Geological Engineering Department at Queen's University at Kingston
 - 👀 I’m interested in: 
 	* Applied geophysics 
 	* Near-surface seismology
