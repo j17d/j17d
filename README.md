@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jack!
-- 🌱 I'm currently a masters student in the Geological Sciences and Geological Engineering Department at Queen's University at Kingston
+- 🌱 I'm currently a masters student in the Geological Sciences and Geological Engineering Department at Queen's University
 - 👀 I’m interested in: 
 	* Applied geophysics 
 	* Near-surface seismology and micro-seismics (full-waveform inversion, wave propagation, anisotropic/porous media...)
