@@ -1,6 +1,11 @@
 - 👋 Hi, I’m Jack!
-- 👀 I’m interested in applied geophysics, near-surface seismology, ground-penetrating radar, numerical modelling, HPC, and ML
-- 🌱 I’m currently a master's student at Queen's University
+- 👀 I’m interested in applied geophysics, 
+* near-surface seismology
+* ground-penetrating radar
+* numerical methods and modelling 
+* HPC
+* ML
+- 🌱 I’m currently a master's student at Queen's University in Kingston, Ontario, Canada
 - 💞️ I’m looking to collaborate on numerical methods, machine learning libraries, and really just anything cool
 - 📫 Feel free to reach out via 17jcf at queensu dot ca
 
