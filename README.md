@@ -12,6 +12,8 @@
 - ⏮ Previously:
 	* Geochemical modelling of trace elements in the Great Lakes
 	* Sounding rocket payload development
+	* Glacial isostatic adjustment modelling
+	* Autonomous survey vehicles
 - 👩🏻‍💻 Learning and using Rust, shakti/k9, APL, MATLAB/Octave, Python, Fortran, C/C++
 - 📫 Want to collaborate or talk shop? Feel free to reach out to 17jcf1 at queensu dot ca
 <!---
