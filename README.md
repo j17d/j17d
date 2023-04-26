@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jack!
-- ⚒ Geological Engineer
-- 🌱 Currently a masters student in the Geological Sciences and Geological Engineering Department at Queen's University at Kingston
+- 🌱 I'm currently a masters student in the Geological Sciences and Geological Engineering Department at Queen's University at Kingston
 - 👀 I’m interested in: 
 	* Applied geophysics 
 	* Near-surface seismology and micro-seismics (full-waveform inversion, wave propagation, anisotropic/porous media...)
@@ -9,7 +8,7 @@
 	* Forward and inverse modelling
 	* High performance computing
 	* Machine learning
-- ⏮ Previously:
+- ⏮ Previously I've worked on:
 	* Geochemical modelling of trace elements in the Great Lakes
 	* Sounding rocket payload development
 	* Glacial isostatic adjustment modelling
