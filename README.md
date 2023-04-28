@@ -13,7 +13,7 @@
 	* Sounding rocket payload development
 	* Glacial isostatic adjustment modelling
 	* Autonomous survey vehicle development
-- 👩🏻‍💻 Learning and using Rust, shakti/k9, APL, MATLAB/Octave, Python, Fortran, C/C++
+- 👩🏻‍💻 Learning and using Rust, shakti/k9, Dyalog APL, MATLAB, Python, and Fortran
 - 📫 Want to collaborate or talk shop? Feel free to reach out to 17jcf1 at queensu dot ca
 <!---
 j17d/j17d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
