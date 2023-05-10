@@ -10,10 +10,10 @@
 	* High performance computing
 	* Machine learning
 - ⏮ Previously I've worked on:
-	* Geochemical modelling of trace elements in the Great Lakes
-	* Sounding rocket payload development
+	* Trace metal speciation in rivers and lakes
+	* Sounding rocket payloads
 	* Glacial isostatic adjustment modelling
-	* Autonomous survey vehicle development
+	* Autonomous survey vehicles
 - 👩🏻‍💻 Learning and using Python, Mojo, Fortran, MATLAB, APL, and Shakti/k9
 - 📫 Want to collaborate or talk shop? Feel free to reach out to 17jcf1 at queensu dot ca
 <!---
