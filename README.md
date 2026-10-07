@@ -1,4 +1,4 @@
 - PhD student in the Digital Earth Science and Engineering Lab at Queen's University
-- ⏭ Currently: numerical modeling of wave propagation
-- ⏮ Previously: trace metal speciation, glacial isostatic adjustment, drone system integration, rocket payloads, neural networks, terrain analysis
+- ⏭ working on: acoustic imaging
+- ⏮ worked on: trace metal speciation, glacial isostatic adjustment, USV integration, rocket payloads, deep learning, and terrain analysis
 - 17jcf1 (at) queensu (dot) ca
